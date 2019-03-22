@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spdload/incumato-widget.git"
+    "url": "git+https://github.com/spdload/healthapp-widget.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/spdload/incumato-widget/issues"
+    "url": "https://github.com/spdload/healthapp-widget/issues"
   },
-  "homepage": "https://github.com/spdload/incumato-widget#readme",
+  "homepage": "https://github.com/spdload/healthapp-widget#readme",
   "devDependencies": {
     "css-loader": "^2.1.0",
     "extract-text-webpack-plugin": "^3.0.2",
